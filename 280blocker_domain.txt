@@ -8,7 +8,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2020-08-28
+# Lastupdate: 2020-09-18
 #
 
 pagead2.googlesyndication.com
@@ -1175,6 +1175,8 @@ date-this-supergirl3.com
 vpn3aprotectplus.com
 securityvpnapp.com
 offers.intercasino.com
+scottdwebgraphics.com
+quantcast.mgr.consensu.org
 
 
 
